@@ -1,0 +1,8 @@
+Package: os-codepoint
+Version: [[version]]
+Section: mygov
+Priority: optional
+Architecture: all
+Description: [[name]]
+Maintainer: martin.ellis@scotland.gsi.gov.uk
+Depends:
