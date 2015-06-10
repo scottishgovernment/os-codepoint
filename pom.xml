@@ -11,7 +11,6 @@
   <groupId>scot.mygov.os</groupId>
   <artifactId>os-codepoint</artifactId>
   <version>2015.05-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
   <name>Ordnance Survey - Code Point</name>
 
