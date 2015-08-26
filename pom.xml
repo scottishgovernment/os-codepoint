@@ -9,7 +9,7 @@
 
   <groupId>scot.mygov.os</groupId>
   <artifactId>os-codepoint</artifactId>
-  <version>2015.11-SNAPSHOT</version>
+  <version>2015.08</version>
 
   <name>Ordnance Survey - Code Point</name>
 
@@ -25,7 +25,7 @@
   <scm>
     <connection>scm:git:ssh://git@stash.digital.gov.uk:7999/mgv/os-codepoint.git</connection>
     <url>http://stash.digital.gov.uk/projects/MGV/repos/os-codepoint/</url>
-    <tag>HEAD</tag>
+    <tag>os-codepoint-2015.08</tag>
   </scm>
 
   <properties>
