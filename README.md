@@ -38,7 +38,6 @@ To update the data set:
 
 To deploy the new release using Maven:
 
-* Use a clean checkout to ensure files have expected LF line endings.
 * Determine the release version, based on the release date of the Code Point
   data set. This should be in the form `YYYY.MM` where MM is one of 02, 05, 08, 11.
 * Use the release plugin to prepare (tag and verify) the release. For example, to release

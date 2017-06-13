@@ -9,7 +9,7 @@
 
   <groupId>scot.mygov.os</groupId>
   <artifactId>os-codepoint</artifactId>
-  <version>2015.11-SNAPSHOT</version>
+  <version>2017.05-SNAPSHOT</version>
 
   <name>Ordnance Survey - Code Point</name>
 
@@ -17,7 +17,7 @@
     <license>
       <name>Ordnance Survey Data Licence</name>
       <url>www.ordnancesurvey.co.uk/opendata/licence</url>
-      <comments>Crown copyright and database right 2015. Royal Mail copyright and database right 2015.</comments>
+      <comments>Crown copyright and database right 2017. Royal Mail copyright and database right 2017.</comments>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -25,7 +25,6 @@
   <scm>
     <connection>scm:git:ssh://git@stash.digital.gov.uk:7999/mgv/os-codepoint.git</connection>
     <url>http://stash.digital.gov.uk/projects/MGV/repos/os-codepoint/</url>
-    <tag>HEAD</tag>
   </scm>
 
   <properties>

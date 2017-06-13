@@ -14,12 +14,12 @@ ORDNANCE SURVEY DATA LICENCE
 
 Your use of data is subject to terms at www.ordnancesurvey.co.uk/opendata/licence.
 
-Contains Ordnance Survey data © Crown copyright and database right 2015.
+Contains Ordnance Survey data © Crown copyright and database right 2017.
 
-Contains Royal Mail data © Royal Mail copyright and database right 2015.
-Contains National Statistics data © Crown copyright and database right 2015.
+Contains Royal Mail data © Royal Mail copyright and database right 2017.
+Contains National Statistics data © Crown copyright and database right 2017.
 
-May 2015
+May 2017
 
 
 ## Open Government License (version 3)
